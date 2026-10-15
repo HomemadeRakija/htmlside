@@ -1,0 +1,12 @@
+header{
+    background-color: beige;
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+img{
+    width: 1000px;
+}
