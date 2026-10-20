@@ -1,12 +1,23 @@
 header{
-    background-color: beige;
-    height: 50px;
+    background-color: rgb(250, 250, 199);
+    height: 275px;
     display: flex;
     justify-content: space-around;
     align-items: center;
-
+    flex-direction: column;
 }
 
 img{
+    width: 200px;
+}
+nav{
+    background-color: rgb(234, 234, 194);
     width: 1000px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+}
+a{
+    color: black;
 }
