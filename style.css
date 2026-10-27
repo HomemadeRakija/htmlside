@@ -1,17 +1,19 @@
 header{
-    background-color: rgb(250, 250, 199);
+    background-color: #8FF2AF;
     height: 275px;
+    width: 500px;
     display: flex;
     justify-content: space-around;
     align-items: center;
     flex-direction: column;
+    justify-self: center;
 }
 
 img{
     width: 200px;
 }
 nav{
-    background-color: rgb(234, 234, 194);
+    background-color: #90F28F;
     width: 1000px;
     display: flex;
     justify-content: space-around;
@@ -20,4 +22,16 @@ nav{
 }
 a{
     color: black;
+}
+
+body{
+    background-color: #8FF2F2 ;
+}
+.rabatthjemme{
+    display: flex;
+
+    flex-direction: column;
+    align-self: center;
+    justify-self: center;
+    text-align: center;
 }
