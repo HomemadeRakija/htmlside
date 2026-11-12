@@ -35,12 +35,13 @@ body{
     justify-self: center;
     text-align: center;
 }
-.nam{
+.produkt{
     background-color: #8ff2a3;
     display: flex;
     flex-direction: column;
     width: 300px;
     align-items: center;
+    justify-content: space-around;
 }
 .katalog{
     display: flex;
